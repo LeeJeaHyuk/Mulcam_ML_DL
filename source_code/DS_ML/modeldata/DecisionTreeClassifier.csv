@@ -1,0 +1,5 @@
+date,best_score,criterion,max_depth,min_impurity_decrease,min_samples_split,min_weight_fraction_leaf,random_state,splitter,test
+2022-11-20 16:20:45,0.4,entropy,8,0.0,2,0.0,42,best,
+2022-11-20 16:23:13,0.4,entropy,8,0.0,2,0.0,42,best,
+2022-11-20 19:13:29,0.4,entropy,8,0.0,2,0.0,42,best,
+2022-11-20 22:04:11,0.8,entropy,8,0.0,2,0.0,42,best,123.0
